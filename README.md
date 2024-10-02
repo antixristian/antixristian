@@ -1,4 +1,4 @@
-![Banner](./lord quas.gif)
+![Banner](https://github.com/antixristian/antixristian/blob/main/lord%20quas.gif)
 
 # 👋 Hey! I'm Christian
 
