@@ -33,8 +33,10 @@ Here are a few projects that I've worked on:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=antixristian&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antixristian&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antixristian&show_icons=true&theme=dracula" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antixristian&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
 ## 📫 Let's Connect
 
