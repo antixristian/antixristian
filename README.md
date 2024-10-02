@@ -1,4 +1,4 @@
-![Banner](https://github.com/antixristi/antixristian/blob/main/banner.png)
+![Banner](https://giphy.com/gifs/space-hip-hop-F0yhwSie6eYpmyRfVm)
 
 # 👋 Hey! I'm Christian
 
