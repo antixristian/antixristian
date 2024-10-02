@@ -1,16 +1,45 @@
-## Hi there 👋
+![Banner](https://github.com/antixristi/antixristian/blob/main/banner.png)
 
-<!--
-**antixristian/antixristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey! I'm Christian
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Computer Science student at UFRJ who enjoys creating efficient and innovative solutions, whether it's for web or mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+
+I'm currently studying Computer Science at UFRJ and have experience working on both web and mobile development. 
+
+### 🌐 Web and Mobile Development
+- **Front-End**: React, React Native
+- **Back-End**: Node.js, Express, Prisma, Sequelize, PostgreSQL
+
+### 👨‍💻 Programming Languages
+- **Languages I've worked with**: C, Python, Java, JavaScript, and TypeScript. Each of them has contributed to my journey in software development, helping me build strong problem-solving skills.
+
+## 🛠️ Technologies and Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+## 🚀 Projects
+
+Here are a few projects that I've worked on:
+
+- [**JustListen**](https://github.com/antixristian/justlisten): A web application built with React that takes a YouTube music link and returns its corresponding matches on other streaming platforms.
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?antixristian=antixristian&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?antixristian=antixristian&layout=compact&theme=dracula)
+
+## 📫 Let's Connect
+
+- Email: youremail@example.com
+- [LinkedIn](https://www.linkedin.com/in/christianlso)
+
+---
+
