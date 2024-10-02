@@ -33,12 +33,12 @@ Here are a few projects that I've worked on:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?antixristian=antixristian&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?antixristian=antixristian&layout=compact&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=antixristian&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antixristian&layout=compact&theme=dracula)
 
 ## 📫 Let's Connect
 
-- Email: youremail@example.com
+- Email: christianlorrans@hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/christianlso)
 
 ---
