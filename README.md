@@ -13,7 +13,7 @@ I'm currently studying Computer Science at UFRJ and have experience working on b
 - **Back-End**: Node.js, Express, Prisma, Sequelize, PostgreSQL
 
 ### 👨‍💻 Programming Languages
-- **Languages I've worked with**: C, Python, Java, JavaScript, and TypeScript. Each of them has contributed to my journey in software development, helping me build strong problem-solving skills.
+- **Languages I've worked with**: C, Python, Java, JavaScript, and TypeScript. Each of these languages has played a key role in my development throughout college.
 
 ## 🛠️ Technologies and Tools
 
