@@ -34,7 +34,7 @@ Here are a few projects that I've worked on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antixristian&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antixristian&layout=compact&theme=dracula" alt="Top Languages" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=antixristian&show_icons=true&theme=dracula" alt="Your GitHub Stats" />
 </p>
 
